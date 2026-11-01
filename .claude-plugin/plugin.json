@@ -1,7 +1,7 @@
 {
   "name": "saysdata",
   "displayName": "SaysData",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lets your agent find, query and cite official statistics through SaysData, which checks every query and links each result so you can verify it. Data from Statistics Canada, Eurostat, the OECD and more.",
   "author": {
     "name": "SaysData",

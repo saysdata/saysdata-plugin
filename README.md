@@ -11,9 +11,9 @@ number with its source, its citation and a link to check it.
 
 ## Setup
 
-The skill works through the SaysData connector. After installing the plugin, connect the SaysData
-connector and sign in with your SaysData account. Without the connector, the skill has no data to
-query.
+The skill works through the SaysData connector, which installing the plugin doesn't connect. After
+installing, add the SaysData connector from the plugin's page, connect it, and sign in with your
+SaysData account. Without the connector, the skill has no data to query.
 
 ## Support
 

@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "saysdata": {
+    "SaysData": {
       "type": "http",
       "url": "https://api.saysdata.com/mcp"
     }
