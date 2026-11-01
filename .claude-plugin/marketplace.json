@@ -1,0 +1,14 @@
+{
+  "name": "saysdata",
+  "description": "The SaysData plugin: official statistics from national statistics agencies and international organizations.",
+  "owner": {
+    "name": "SaysData",
+    "email": "support@saysdata.com"
+  },
+  "plugins": [
+    {
+      "name": "saysdata",
+      "source": "./"
+    }
+  ]
+}

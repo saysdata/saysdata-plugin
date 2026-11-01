@@ -1,0 +1,19 @@
+{
+  "name": "saysdata",
+  "displayName": "SaysData",
+  "version": "0.1.0",
+  "description": "Lets your agent find, query and cite official statistics through SaysData, which checks every query and links each result so you can verify it. Data from Statistics Canada, Eurostat, the OECD and more.",
+  "author": {
+    "name": "SaysData",
+    "email": "support@saysdata.com",
+    "url": "https://saysdata.com"
+  },
+  "homepage": "https://saysdata.com",
+  "repository": "https://github.com/saysdata/saysdata-plugin",
+  "license": "LicenseRef-SaysData",
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://saysdata.com/how-it-works",
+  "supportUrl": "https://saysdata.com/docs/support",
+  "privacyPolicyUrl": "https://saysdata.com/legal/privacy",
+  "termsOfServiceUrl": "https://saysdata.com/legal/terms"
+}
